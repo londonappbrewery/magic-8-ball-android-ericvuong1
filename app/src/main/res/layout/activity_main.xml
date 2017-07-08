@@ -42,6 +42,6 @@
         android:background="@android:color/darker_gray"
         android:text="@string/welcome_message"
         android:textColor="@android:color/background_light"
-        android:textSize="20sp"/>
+        android:textSize="30sp"/>
 
 </RelativeLayout>

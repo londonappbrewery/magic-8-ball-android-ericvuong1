@@ -35,7 +35,7 @@ public class MainActivity extends AppCompatActivity {
 
                 //generate new number
                 Random rnG = new Random();
-                int number = rnG.nextInt(6);
+                int number = rnG.nextInt(5);
 
                 magicBall.setImageResource(ballList[number]);
 
